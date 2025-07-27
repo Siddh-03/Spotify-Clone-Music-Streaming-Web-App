@@ -4,8 +4,6 @@
 
 A high-fidelity, static clone of the Spotify web player user interface. This project was built to demonstrate strong foundational skills in HTML and CSS by replicating a complex, real-world application design.
 
-![Spotify Clone Screenshot](./docs/screenshot.png)
-
 ---
 
 ## 🌟 Key Features
